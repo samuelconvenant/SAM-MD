@@ -5,7 +5,7 @@ import { buildMenu } from "../lib/menu.js";
 
 const BOT_NAME = "𝐒𝐀𝐌𝐌𝐈 𝐌𝐃";
 const BOT_TITLE = "♛ 𝐒𝐀𝐌𝐌𝐈 𝐌𝐃 𝐁𝐎𝐓 ♛";
-const FOOTER = "ϟ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐍𝐅𝐄𝐈 𝐓𝐄𝐂𝐇";
+const FOOTER = "ϟ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐀𝐌𝐌𝐈 𝐓𝐄𝐂𝐇";
 
 // ━━━ MENU DESIGN ━━━
 
