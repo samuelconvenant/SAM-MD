@@ -2,7 +2,7 @@
   "name": "fei-xmd",
   "version": "1.0.0",
   "private": false,
-  "description": "A modular WhatsApp automation bot by Benfei Tech, built with the normal WhiskeySockets Baileys package.",
+  "description": "A modular WhatsApp automation bot by Sammi Tech, built with the normal WhiskeySockets Baileys package.",
   "type": "module",
   "main": "index.js",
   "scripts": {
